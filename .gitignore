@@ -1,0 +1,34 @@
+# Переменные окружения (токены, пароли)
+.env
+
+# Виртуальное окружение
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Логи и базы данных
+*.log
+*.db
+*.sqlite
+*.sqlite3
+
+# Резервные копии
+backups/
+*.bak
+*.backup
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Системные файлы
+system.log
